@@ -18,7 +18,7 @@ header{
     width:100%;
 }
 #web-image{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/Osaka.png");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://champignydesign.github.io/images/Osaka.png");
     height: 350px;
     width:100%;
     background-position: center;
@@ -29,7 +29,7 @@ header{
     margin-top:10%;
 }
 #photography-image{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/JAPAN1.png");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://champignydesign.github.io/images/JAPAN1.png");
     height: 350px;
     width:100%;
     background-position: center;
@@ -39,7 +39,7 @@ header{
     position: relative;
 }
 #fineArt-image{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/drawing.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://champignydesign.github.io/images/drawing.jpg");
     height: 350px;
     width:100%;
     background-position: center;
